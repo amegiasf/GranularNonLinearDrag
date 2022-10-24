@@ -8,4 +8,4 @@ The folders contains the following data
 - Mpemba: simulation results of transient regimes that exhibit Mpemba-like effect appearing in Fig. 6 of the paper.
 - Kovacs: simulation results of transient regimes that exhibit Kovacs-like effect appearing in Fig. 7 of the paper.
 
-The folders with the prefix 'errors' refer to the errors of the values in the corresponding folder.
+The folders with the prefix 'errors' refer to the errors of the values in the corresponding folder. The files in the folder 'stationary' contain themselves the errors of the values.
